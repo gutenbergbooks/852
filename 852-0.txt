@@ -1,7 +1,3 @@
-
-
-
-
 DEMOCRACY AND EDUCATION
 
 by John Dewey
@@ -9215,7 +9211,7 @@ mixture. Certain studies and methods are retained on the supposition
 that they have the sanction of peculiar liberality, the chief content
 of the term liberal being uselessness for practical ends. This aspect
 is chiefly visible in what is termed the higher education--that of the
-college and of preparation for it. But is has filtered through into
+college and of preparation for it. But it has filtered through into
 elementary education and largely controls its processes and aims. But,
 on the other hand, certain concessions have been made to the masses
 who must engage in getting a livelihood and to the increased role of
@@ -12853,4 +12849,5 @@ does the particular deed socially necessary but one which is interested
 in that continuous readjustment which is essential to growth. Interest
 in learning from all the contacts of life is the essential moral
 interest.
+
 
